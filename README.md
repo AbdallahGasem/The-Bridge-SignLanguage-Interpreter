@@ -235,7 +235,7 @@ The critical path is a recording programme, built to a standard the existing Ara
 
 There is currently no openly licensed, signer-identified Egyptian Sign Language corpus in existence. Building one does not merely unblock The Bridge  it unblocks every researcher, student and developer who has been unable to work on EGSL for the same reason we were.
 
-**The application is the demonstration. The corpus is the public good.**
+**The application is the nstration. The corpus is the public good.**
 
 ### Sequence
 
@@ -271,7 +271,7 @@ This repository currently holds documentation and media. **The source code is no
 
 Whether an open-source version is released  and under what licence  is a decision the team will make after the Prototypes for Humanity 2026 result. Until then the code remains private, and the material here is intended to let you evaluate the system without it.
 
-If you want to see it running, start with [demo.mp4](demo.mp4).
+If you want to see it running, start with [demo.mp4](https://drive.google.com/file/d/1Gc-8Efe3VOqqCrHMFFQhx1JL98luaSUl/view?usp=drive_link).
 
 ---
 
