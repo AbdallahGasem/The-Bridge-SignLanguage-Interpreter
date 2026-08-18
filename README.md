@@ -24,7 +24,7 @@
 | | |
 |---|---|
 | **[Demo.mp4](https://drive.google.com/file/d/1Gc-8Efe3VOqqCrHMFFQhx1JL98luaSUl/view?usp=drive_link)** | The running system. Two Android devices, one signing, one speaking, captions appearing on both screens during a live call. |
-| **[The_Bridge_Pitch.mp4]()** | The pitch for the idea, recorded at an earlier stage of the project. |
+| **[The_Bridge_Pitch.mp4](https://drive.google.com/file/d/1vkiheYiuoIEIVhp5-27PzKu-9UjhVMCK/view?usp=sharing)** | The pitch for the idea, recorded at an earlier stage of the project. |
 
 ---
 
