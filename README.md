@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Drop the logo here when you add it: <img src="docs/assets/logo.png" alt="The Bridge" width="150" /> -->
+<img src="docs/assets/logo.png" alt="The Bridge" width="150" /> 
 
 # The Bridge
 
