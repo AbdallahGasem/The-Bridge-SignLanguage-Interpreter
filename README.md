@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="docs/assets/logo.png" alt="The Bridge" width="150" /> 
+<img src="Docs/assets/banner.png" alt="The Bridge"/> 
 
-# The Bridge
 
 ### A two-way sign language interpreter for live video calls
 
