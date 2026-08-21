@@ -44,6 +44,8 @@ A right that cannot be exercised is not a right. It is a promissory note. The Br
 
 ## Why the existing options don't close it
 
+<img src="Docs/assets/comp.png" alt="The Bridge Comparison"/>
+
 | Option | Where it breaks |
 |---|---|
 | **Human interpreters** | The gold standard, and it must stay that way for diagnoses, courtrooms and contracts. But it is a scheduled, scarce, billed resource that cannot reach an unplanned two-minute exchange. |
